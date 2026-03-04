@@ -41,7 +41,7 @@ A premium, high-performance fitness club website built with **React** and **Vite
 
 ## 📬 Contact Me
 - **Email**: [muhammadzohaib1090@gmail.com](mailto:muhammadzohaib1090@gmail.com)
-- **LinkedIn**: [muhammadzohaib](https://www.linkedin.com/in/muhammadzohaib/)
+- **LinkedIn**: [muhammadzohaib](https://www.linkedin.com/in/muhamadzohaib/)
 
 ---
 *Developed with focus on performance and aesthetics.*
